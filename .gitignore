@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 
-# Not include data folder 'cnn_data'
-./cnn_data/
+# Not include data folder 'cnn_data' in git
+cnn_data/
